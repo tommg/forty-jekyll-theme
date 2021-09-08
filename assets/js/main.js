@@ -165,8 +165,6 @@
 							.text('')
 							.addClass('primary')
 							.appendTo($this);
-						
-						$x.attr('aria-label', $link.text());
 
 						$link = $link.add($x);
 
