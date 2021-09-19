@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Services
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
