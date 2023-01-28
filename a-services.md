@@ -9,40 +9,40 @@ nav-menu: true
 <div id="main" class="alt">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Services</h1>
-		</header>
+    <section id="one">
+        <div class="inner">
+            <header class="major">
+                <h1>Services</h1>
+            </header>
 
-<!-- Content -->
-		<div class="row">
-			<p>
-				TCSG Limited provides bespoke software systems for businesses of any size, either working with start-ups from the very beginning, or embedding into an existing functional team within an established business and providing high quality solutions that meet and exceed stakeholder expectations.
-			</p>
-		</div>
-		<div class="row">
-			<p>
-				As a group, we specialise in working with technology startups to translate their ideas into web applications that help them build their business. This includes aiding in hiring an initial team through to build and deployment of the application. We work using agile methodologies such as Scrum or Kanban as required and will work closely with stakeholders every step of the way.
-			</p>
-		</div>
-		<div class="row">
-			<p>
-				TCSG Limited is an FOSS friendly company. We write software that runs on Linux-based systems and use Open Source tools and languages. We write software to deploy using containers and Amazon Web Services (AWS) is our preferred choice for hosting and managing these, although we can use any existing cloud based hosting solution you may have.
-			</p>
-		</div>
-		<div class="row">
-			<p>
-				Conforming to <a href="https://12factor.net" target="_blank">The Twelve Factor App</a> is our baseline approach to development.
-			</p>
-		</div>
-		<div class="row">
-			<p>
-				Please contact us below to discuss your needs.
-			</p>
-		</div>
-	</div>
-</section>
+    <!-- Content -->
+            <div class="row">
+                <p>
+                    TCSG Limited provides bespoke software systems for businesses of any size. We have experience working with start-ups from the very beginning, building initial MVP's or PoC's, growing and scaling the Software Engineering teams and embedding into existing functional teams within established businesses to provide high quality solutions that add value.
+                </p>
+            </div>
+            <div class="row">
+                <p>
+                    With experience across a wide variety of industries we specialise in working with small to medium size businesses to help work out solutions to problems specific to the domain in order to realise their goals. This includes aiding in building an initial team through to technical planning, architectural design, build and deployment of the product. We work using agile methodologies such as Scrum and Kanban as required and will work closely with stakeholders if needed to make sure there is clarity of both planning and progress.
+                </p>
+            </div>
+            <div class="row">
+                <p>
+                    TCSG Limited is an FOSS friendly company. We build software using Free and Open Source technologies that run in <a href="https://opencontainers.org" target="_blank">OCI (Open Container Initiative)</a> compatible containers, most often hosted using Cloud Services such as Amazon Web Services and Google Cloud Platform.
+                </p>
+            </div>
+            <div class="row">
+                <p>
+                    Conforming to <a href="https://12factor.net" target="_blank">The Twelve Factor App</a> is our baseline approach to development for performant, distributed web application services that scale and importantly are maintainable.
+                </p>
+            </div>
+            <div class="row">
+            <p>
+                Please <a href="#contact">contact us</a> to discuss your needs.
+            </p>
+            </div>
+        </div>
+    </section>
 
 </div>
 

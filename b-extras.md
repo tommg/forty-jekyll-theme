@@ -18,18 +18,13 @@ nav-menu: true
 
 <!-- Content -->
 		<div class="row">
-			<p>
-         TCSG Limited provides bespoke software systems for businesses of any size, either working with start-ups from the very beginning, or embedding into an existing functional team within an established business and providing high quality solutions that meet and exceed stakeholder expectations.
+		    <p>
+         TCSG Limited provides bespoke software systems for businesses of any size, either working with start-ups from the very beginning, or embedding into an existing functional team within established businesses to provide high quality solutions that satisfy our clients.
 			</p>
 		</div>
 		<div class="row">
 			<p>
-         We also provide professional photography and post-processing with a specialism in nature and wildlife/animals.
-			</p>
-		</div>
-		<div class="row">
-			<p>
-         Please contact us for further information and let us know how we can help you.
+             Please <a href="#contact">contact us</a> for further information and let us know how we can help you.
 			</p>
 		</div>
 	</div>
