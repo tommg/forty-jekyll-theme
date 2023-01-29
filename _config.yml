@@ -6,8 +6,8 @@ description: Providing professional software solutions for your business
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://tcsg.uk # the base hostname & protocol for your site
 author: Tom Garbutt
-street_address: |-
-  TCSG Limited
+street_address: |
+  TCSG Limited<br>
   7 Galena Road
 city: London
 # state: TN

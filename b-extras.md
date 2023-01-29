@@ -3,7 +3,7 @@ layout: page
 title: Extras
 description: other services we provide
 image: assets/images/pic09.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
